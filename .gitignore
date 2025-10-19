@@ -2,4 +2,7 @@
 *.txt
 *.json
 *.csv
-\raw
+*.log
+*.tmp
+raw/
+env
